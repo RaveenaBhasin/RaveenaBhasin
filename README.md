@@ -23,3 +23,5 @@
 <p  align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaveenaBhasin&)" alt="Raveena Bhasin" />
 </p>
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/RaveenaBhasin/count.svg" alt="Visitor Count" /></h2>
+<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
