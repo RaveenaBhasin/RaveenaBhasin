@@ -15,6 +15,10 @@
 </a>
 <a href="mailto:raveenabhasin15@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://raveenabhasin15.medium.com/">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 </p> 
 
 [![Raveena's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaveenaBhasin&show_icons=true)](https://github.com/RaveenaBhasin/github-readme-stats)
