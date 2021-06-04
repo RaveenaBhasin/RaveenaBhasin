@@ -21,11 +21,13 @@
 </a>
 </p> 
 
-[![Raveena's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaveenaBhasin&show_icons=true)](https://github.com/RaveenaBhasin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaveenaBhasin&layout=compact)](https://github.com/RaveenaBhasin/github-readme-stats)
-<h2 align="center">Git-Hub Streak !! :fire:</h2> 
-<p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaveenaBhasin&)" alt="Raveena Bhasin" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaveenaBhasin&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaveenaBhasin&theme=radical&show_icons=true" />
+</div>
+  
+![Raveena Bhasin's contribution graph](https://activity-graph.herokuapp.com/graph?username=RaveenaBhasin&theme=react-dark&hide_border=true)
+<br>
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/RaveenaBhasin/count.svg" alt="Visitor Count" /></h2>
 <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
+
