@@ -2,7 +2,7 @@
   - :school: I'm First Year Student at Jabalpur Engineering College, Madhya Pradesh <br>
   - :computer: Computer Science Stream<br>
   - :smile: Open Source Enthusiast<br>
-  - 🤔 Exploring Competitive Coding <br>
+  - 🤔 Passionate about Competitive Coding <br>
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
