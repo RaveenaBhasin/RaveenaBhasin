@@ -1,10 +1,38 @@
-<h2 align="center">Hola Amigos, Raveena Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  - :school: I'm First Year Student at Jabalpur Engineering College, Madhya Pradesh <br>
-  - :computer: Computer Science Stream<br>
-  - :smile: Open Source Enthusiast<br>
-  - 🤔 Passionate about Competitive Coding <br>
+<h1 align="center">Hey, I'm Raveena Bhasin !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+   
+   ## :wave: About Me 
+👩‍🎓 Hey! I'm Raveena, a 18 year old CS undergrad at Jabalpur Engineering College, Madhya Pradesh. 
+
+👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/raveenabhasin15/practice/).
+ 
+:rocket: I have been a part of [**GirlScript Summer of Code**](https://gssoc.girlscript.tech/index.html#about) as an Open Source Contributor and had 100+ Successfully Merged PR's in a single project [**MakesMathEasy**](https://github.com/makesmatheasy/makesmatheasy)
+
+💻 Worked as a Mentor in [**Let's Grow More Summer of Code**](https://letsgrowmore.in/) on project [**Hacking Scripts**](https://github.com/Tejas1510/Hacking-Scripts) and helped beginners on how to get started with Open Source Contributions.
+
+✍🏻 I usually write technical blogs on [**Medium.com**](https://raveenabhasin15.medium.com/).
+
+
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+## 🤝 &nbsp;Connect Me !!
 
 <p align="center">
 <a href="https://github.com/RaveenaBhasin" target="_blank">
@@ -20,13 +48,14 @@
 <img alt="Medium" src="https://img.shields.io/badge/Medium-3e3736?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </p> 
+<br>
 
-<div align="center">
+ <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaveenaBhasin&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaveenaBhasin&theme=radical&show_icons=true" />
 </div>
 
 [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaveenaBhasin&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/RaveenaBhasin/github-readme-activity-graph)
-<br>
-<h3 align="center">Show some :heart: by starring some of my repositories! </h3>
 
+ <h3 align="center">Show some :heart: by starring some of my repositories! </h3>
+  
