@@ -55,7 +55,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaveenaBhasin&theme=radical&show_icons=true" />
 </div>
 
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaveenaBhasin&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/RaveenaBhasin/github-readme-activity-graph)
-
  <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
   
