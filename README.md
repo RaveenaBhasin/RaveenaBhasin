@@ -6,7 +6,7 @@
    ## :wave: About Me 
 👩‍🎓 Hey! I'm Raveena, a 18 year old CS undergrad at Jabalpur Engineering College, Madhya Pradesh. 
 
-👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/raveenabhasin15/practice/).
+👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/Raveena_Bhasin/).
  
 :rocket: I have been a part of [**GirlScript Summer of Code**](https://gssoc.girlscript.tech/index.html#about) as an Open Source Contributor and had 100+ Successfully Merged PR's in a single project [**MakesMathEasy**](https://github.com/makesmatheasy/makesmatheasy)
 
