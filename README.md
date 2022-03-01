@@ -14,9 +14,6 @@
 
 ✍🏻 I usually write technical blogs on [**Medium.com**](https://raveenabhasin15.medium.com/).
 
-📫 How to reach me? mail on raveenabhasin15@gmail.com
-
-
 
 ## 🛠 &nbsp;Tech Stack
 
