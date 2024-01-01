@@ -4,7 +4,7 @@
 
    
    ## :wave: About Me 
-👩‍🎓 Hey! I'm Raveena, a 18 year old CS undergrad at Jabalpur Engineering College, Madhya Pradesh. 
+👩‍🎓 Hey! I'm Raveena, a final year undergrad at Jabalpur Engineering College, Madhya Pradesh. 
 
 👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/Raveena_Bhasin/).
  
