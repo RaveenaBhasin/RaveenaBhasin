@@ -2,17 +2,13 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-   
-   ## :wave: About Me 
-👩‍🎓 Hey! I'm Raveena, a final year undergrad at Jabalpur Engineering College, Madhya Pradesh. 
 
-👩‍💻 Nowadays, I’m exploring Web Development. I regularly practice DSA questions on [**Leetcode**](https://leetcode.com/Raveena_Bhasin/).
- 
-:rocket: I have been a part of [**GirlScript Summer of Code**](https://gssoc.girlscript.tech/index.html#about) as an Open Source Contributor and had 100+ Successfully Merged PR's in a single project [**MakesMathEasy**](https://github.com/makesmatheasy/makesmatheasy)
+## About Me
 
-💻 Worked as a Mentor in [**Let's Grow More Summer of Code**](https://letsgrowmore.in/) on project [**Hacking Scripts**](https://github.com/Tejas1510/Hacking-Scripts) and helped beginners on how to get started with Open Source Contributions.
-
-✍🏻 I usually write technical blogs on [**Medium.com**](https://raveenabhasin15.medium.com/).
+- I am a 21 y.o. Blockchain Developer from India.
+- I am currently Freelancing as a Smart Contract Developer and looking for new opportunities.
+- I previously worked with [**Timeswap Labs**](https://timeswap.io/) and [**Clamp**](https://joinclamp.com/) as a Blockchain Developer Intern.
+- I've a knack for participating in hackathons and have won 4 of them 
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -56,4 +52,6 @@
 </div>
 
  <h3 align="center">Show some :heart: by starring some of my repositories! </h3> 
-  
+
+<br>
+
