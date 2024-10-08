@@ -5,7 +5,7 @@ My name is Raveena Bhasin. I am a blockchain engineer and I like Rust and crypto
 Currently:
 - Blockchain Engineer at [Router Protocol](https://www.routerprotocol.com/)
 
-Past Expereince and Projects:
+Past Experience and Projects:
 - Ex Blockchain Intern at [TimeswapLabs](https://www.eigenlayer.xyz/)
 - Ex Fullstack Dev at [Clamp](https://joinclamp.com/)
 - ETHSingapore 2024 Nethermind Track Winner [MEV-Engine](https://github.com/RaveenaBhasin/mev-engine)
